@@ -1,0 +1,71 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px 50px 20px;
+}
+
+.login-container {
+  max-width: 300px;
+  margin: 100px auto;
+}
+
+.login-form-button {
+  width: 100%;
+}
+
+.header {
+  margin: 30px;
+  text-align: right;
+}
+
+.page-title {
+  margin-bottom: 50px;
+}
+
+.login-msg {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.input-label {
+  font-size: 18px;
+  margin: 0 5px 0 0;
+}
+
+.upload-table {
+  margin: 40px auto;
+  max-width: 600px;
+}
+
+.success-icon {
+  color: limegreen;
+}
+
+.arrowsBnt {
+  margin: 10px 20px;
+}
+
+.consolidate-report .ant-table-fixed-left tbody tr{
+  background-color: #f8f8f8;
+}
+
+.consolidate-report thead {
+    background-color: #dbe6ef;
+}
+
+.consolidate-report .ant-table-tbody tr:last-child {
+    background-color: #eee;
+}
+
+.consolidate-report .ant-table-tbody tr:nth-child(6) {
+    background-color: #f8f8f8;
+}
+.consolidate-report .ant-table-tbody tr:nth-child(7) {
+    background-color: #f8f8f8;
+}
+.consolidate-report .ant-table-tbody tr:nth-child(11) {
+    background-color: #f8f8f8;
+}
